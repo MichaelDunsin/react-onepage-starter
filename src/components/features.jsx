@@ -1,5 +1,5 @@
 
-export default function Footer(){
+export default function Features(){
 
 return (
 <section>

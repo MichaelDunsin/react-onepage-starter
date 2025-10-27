@@ -1,5 +1,5 @@
 
-export default function Footer(){
+export default function Hero(){
 
 return (
 <section>
