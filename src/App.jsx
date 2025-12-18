@@ -13,7 +13,7 @@ import Footer from "./components/footer";
 export default function App() {
 
   return (
-    <div className="min-h-screen bg-neutral-50">
+    <div className="min-h-screen overflow-hidden bg-neutral-50">
    <Header />
     <Hero />
     <Problems />
